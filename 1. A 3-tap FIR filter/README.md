@@ -1,5 +1,7 @@
 # A 3-tap FIR filter
-     This is the first project I began with. Although the example seems to be very simple, it's still a good example to start with. The objective of this project is to know the basic cell-based IC design flow, from HLS to netlist.  
+
+This is the first project I began with. Although the example seems to be very simple, it's still a good example to start with. The objective of this project is to know the basic cell-based IC design flow, from HLS to netlist.  
+
 ## Algorithm  
 
 1.y[n] = c1*x[n]+c2*x[n-1]+c3*x[n-2]  
