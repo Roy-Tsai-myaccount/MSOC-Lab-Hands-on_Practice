@@ -4,7 +4,7 @@ This is the first project I began with. Although the example seems to be very si
 
 ## Algorithm  
 
-1.y[n] = c1*x[n]+c2*x[n-1]+c3*x[n-2]  
+1.y[n] = c1*x[n] + c2*x[n-1] + c3*x[n-2]  
 
 ## SPEC  
 
